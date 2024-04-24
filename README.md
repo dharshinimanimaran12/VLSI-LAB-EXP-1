@@ -6,7 +6,7 @@ To simulate Logic Gates ,Adders and Subtractors using Vivado 2023.2.
 APPARATUS REQUIRED: 
 VIVADO 2023.2
 PROCEDURE: 
-1. Open Vivado: Launch Xilinx Vivado software on your computer.
+1. Open Vivado: Launch Xilinx Vivado software on your computer. 
 
 2. Create a New Project: Click on "Create Project" from the welcome page or navigate through "File" > "Project" > "New".
 
